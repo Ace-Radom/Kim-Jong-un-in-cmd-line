@@ -4,19 +4,19 @@
 
 A simple program just for fun.
 
-###Features
+### Features
 
 - Print a cheering crowd.
 - Print Kim Jong-un's headshot.
 - Print the flag of the DPRK.
 
-###Install
+### Install
 ```
 git clone https://github.com/abc-zhy12/Kim-Jong-un-in-cmd-line
 ```
 
 (Maybe work. Not tested yet. )
 
-###Website
+### Website
 <https://www.bilibili.com/video/BV1YHVDz7EyE>
 (Banned for no reason. Bruh. )

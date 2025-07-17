@@ -18,5 +18,4 @@ git clone https://github.com/abc-zhy12/Kim-Jong-un-in-cmd-line
 (Maybe work. Not tested yet. )
 
 ### Website
-<https://www.bilibili.com/video/BV1YHVDz7EyE>
-(Banned for no reason. Bruh. )
+<https://www.bilibili.com/video/BV1kJJuzFEtW/>
